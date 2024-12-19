@@ -85,8 +85,8 @@ Ce projet académique consiste en la réalisation d'un chatbot basé sur l'archi
 ## Liens Supplémentaires
 
 ### Project Micro-Service 
-Lien du frontend Angular : [Repo Frontend](https://github.com/othsoh/ecom-microServiceApp-Front-angular/)
-Lien du backend Spring Boot : [Repo Backend](https://github.com/othsoh/microService-app)
+- Lien du frontend Angular : [Repo Frontend](https://github.com/othsoh/ecom-microServiceApp-Front-angular/)
+- Lien du backend Spring Boot : [Repo Backend](https://github.com/othsoh/microService-app)
 
 
 ## Conclusion
