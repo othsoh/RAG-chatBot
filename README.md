@@ -29,14 +29,7 @@ Ce projet académique consiste en la réalisation d'un chatbot basé sur l'archi
    - Interface responsive et intuitive
    - Composants Vaadin pour une expérience utilisateur fluide
 
-## Home Page
 
-![home](https://github.com/user-attachments/assets/12109d49-4c4c-4994-9ca8-696491ddfb9d)
-
-## Chat Page
-
-![chat-loading](https://github.com/user-attachments/assets/3f3207c5-8503-4042-81b9-7d5239cb530f)
-![chat](https://github.com/user-attachments/assets/09498bba-ba5c-44b3-bde4-356fec7879b1)
 
 ## Fonctionnalités
 
@@ -50,8 +43,14 @@ Ce projet académique consiste en la réalisation d'un chatbot basé sur l'archi
 - Réponses contextuelles basées sur les documents analysés
 - Historique des conversations
 
-{?? Image du système de gestion des documents et de l'historique des conversations ??}
+## Home Page
 
+![home](https://github.com/user-attachments/assets/12109d49-4c4c-4994-9ca8-696491ddfb9d)
+
+## Chat Page
+
+![chat-loading](https://github.com/user-attachments/assets/3f3207c5-8503-4042-81b9-7d5239cb530f)
+![chat](https://github.com/user-attachments/assets/09498bba-ba5c-44b3-bde4-356fec7879b1)
 ### 3. Administration
 - Configuration des paramètres du modèle
 - Gestion des documents sources
@@ -63,20 +62,6 @@ Ce projet académique consiste en la réalisation d'un chatbot basé sur l'archi
 - Utilisation de PostgreSQL avec extension pgvector
 - Stockage efficace des embeddings
 - Organisation optimisée des chunks de documents
-
-### Organisation du Code
-
-src/
-├── main/
-│   ├── frontend/          # Interface Vaadin
-│   ├── java/
-│   │   └── org.sid.chatbot/
-│   │       ├── config/    # Configuration
-│   │       ├── services/  # Services métier
-│   │       └── web/       # Contrôleurs
-│   └── resources/
-        └── prompt/        # Templates de prompts
-
 
 ## Déploiement
 
@@ -96,6 +81,12 @@ src/
 - Mise en cache des requêtes fréquentes
 - Optimisation des embeddings
 - Gestion efficace de la mémoire
+
+## Liens Supplémentaires
+
+### Project Micro-Service 
+Lien du frontend Angular : [Repo Frontend](https://github.com/othsoh/ecom-microServiceApp-Front-angular/)
+Lien du backend Spring Boot : [Repo Backend](https://github.com/othsoh/microService-app)
 
 
 ## Conclusion
